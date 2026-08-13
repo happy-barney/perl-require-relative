@@ -18,7 +18,7 @@ my %module_build_args = (
     "Branislav Zahradn\x{ed}k <barney.cpan\@gmail.org>>"
   ],
   "dist_name" => "require-relative",
-  "dist_version" => "1.0.0",
+  "dist_version" => "1.0.1",
   "license" => "artistic_2",
   "module_name" => "require::relative",
   "recursive_test_files" => 1,
