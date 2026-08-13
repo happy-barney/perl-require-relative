@@ -50,7 +50,7 @@ share configuration or setup.
 
 =head1 AUTHOR
 
-Branislav Zahradník <barney@cpan.org>
+Branislav Zahradník <barney.cpan@gmail.org>
 
 =head1 COPYRIGHT AND LICENSE
 
